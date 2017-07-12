@@ -14,3 +14,6 @@
 
 [【推荐】对抗生成网络(Gan)深入研究(文献/教程/模型/框架/库等)](http://chuansong.me/n/1804372551835)
 [不可错过的 GAN 资源：教程、视频、代码实现、89 篇论文下载](http://www.sohu.com/a/137574970_473283)
+
+
+[Simple implementation of Generative Adversarial Nets using chainer](https://gist.github.com/rezoo/4e005611aaa4dad26697)
