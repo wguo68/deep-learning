@@ -1,4 +1,5 @@
 # GAN
+ [GAN 很复杂？如何用不到 50 行代码训练 GAN（基于 PyTorch）](https://www.leiphone.com/news/201702/eIGiQzuGeuAaH22e.html)
 
 [到底什么是生成式对抗网络GAN？](http://www.msra.cn/zh-cn/news/blogs/2017/05/gan-20170511.aspx)
 
